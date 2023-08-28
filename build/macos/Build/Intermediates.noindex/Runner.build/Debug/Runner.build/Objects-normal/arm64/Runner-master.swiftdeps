@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "04e2b45fcb7435d51fb84fd1fc5853eca773af799c31eae7711c7dcab76fbdb7"
+build_start_time: [1693226158, 904119000]
+build_end_time: [1693226160, 504629000]
+inputs:
+  "/Volumes/Data/code/flutterapps/coin_toss_example/macos/Flutter/GeneratedPluginRegistrant.swift": [1693226153, 355492778]
+  "/Volumes/Data/code/flutterapps/coin_toss_example/macos/Runner/AppDelegate.swift": [1661879069, 0]
+  "/Volumes/Data/code/flutterapps/coin_toss_example/macos/Runner/MainFlutterWindow.swift": [1690098117, 704800242]
